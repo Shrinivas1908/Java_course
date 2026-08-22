@@ -1,0 +1,9 @@
+What is Sealed Class?(Enhanced Inheritance){sealed,nonsealed,final,permit}
+Does if prints?(no not possible)
+Ambhiguity solution?( by applying Super in print() method{Asuper.print} )
+Interface Questions & JAVA 8(imp & functional, most stable version)
+What is functional Interface( interface with single method, single responsiblity)
+What is ACID & SOLID for functional interface?
+
+
+
